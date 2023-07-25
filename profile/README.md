@@ -8,6 +8,6 @@
 
 🎅 While goenv was created during a slow Christmas season in 2016, it grew into something that I'd never imagine would be that much useful to the Golang community.
 
-🙏 I am grateful to the community and especially @ChronosMasterOfAllTime for dedicating the time to maintain the project and continue to further develop it.
+🙏 I am grateful to the community and especially [@ChronosMasterOfAllTime](https://github.com/ChronosMasterOfAllTime) for dedicating the time to maintain the project and continue to further develop it.
 
-Yours, Anton (@syndbg) 😊
+Yours, Anton ([@syndbg](https://github.com/syndbg)) 😊
